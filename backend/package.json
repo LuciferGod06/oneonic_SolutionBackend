@@ -65,7 +65,18 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  
+    "repository": {
+       "type": "git",
+      "url": "git+https://github.com/LuciferGod06/oneonic_SolutionBackend.git"
+  },
+  "bugs": {
+      "url": "https://github.com/LuciferGod06/oneonic_SolutionBackend/issues"
+     },
+  "homepage": "https://github.com/LuciferGod06/oneonic_SolutionBackend#readme"
+  ,
   "keywords": [],
   "author": "",
   "license": "ISC"
+  
 }
